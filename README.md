@@ -24,22 +24,5 @@ This project provides a way to control switches using an ESP32 and the SinricPro
 - WiFi library
 - Map library
 
-
-## Setup Instructions
-
-### Hardware Setup
-
-1. Connect your relays to the specified GPIO pins on the ESP32.
-2. Connect your physical switches to the specified GPIO pins on the ESP32.
-
-### Software Setup
-
-1. Install the Arduino IDE.
-2. Install the necessary libraries:
-    - SinricPro
-    - WiFi
-    - Map
-
-3. Clone this repository:
-
+## Project Directory Structure
 
